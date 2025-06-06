@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=jetbrains+mono&weight=300&pause=1000&color=a6adff&&center=true&vcenter=true&random=false&width=835&lines=Welcome+to+my+Github;I'm+a+Developer;Deep+in+studies;Open+to+work" alt="typing svg" />
 
-  I am Arthur Rotkis, 19 years old, a developer for one and a half years, currently studying Computer Science at Centro Universitário FEI. I have participated in programming marathons, where I learned a lot about algorithms and data structures. Additionally, I have developed several projects with different levels of complexity.
+  I am Arthur Rotkis, 20 years old, a developer for one and a half years, currently studying Computer Science at Centro Universitário FEI. I have participated in programming marathons, where I learned a lot about algorithms and data structures. Additionally, I have developed several projects with different levels of complexity.
 
   I also hold a technical degree in Industrial Automation from Liceu de Artes e Ofícios de São Paulo. I am a fast learner and self-taught, having taught myself skills such as playing the guitar, using the Vim editor, and exploring the GNU/Linux system.
 
