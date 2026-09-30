@@ -34,17 +34,38 @@ Base em algoritmos e estruturas de dados construída como **Monitor da Maratona 
 
 <div align="center">
 
-[![MusicStream](https://github-readme-stats.vercel.app/api/pin/?username=rotkis&repo=MusicStream&theme=transparent&title_color=A6ADFF&text_color=C9D1D9&icon_color=A6ADFF&border_color=30363D)](https://github.com/rotkis/MusicStream)
+<table>
+<tr>
+<td><a href="https://github.com/rotkis/MusicStream"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?theme=transparent&title_color=A6ADFF&text_color=C9D1D9&icon_color=A6ADFF&border_color=30363D&hide_border=false&username=rotkis&repo=MusicStream" alt="MusicStream" /></a></td>
+<td><a href="https://github.com/rotkis/Niver-nene"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?theme=transparent&title_color=A6ADFF&text_color=C9D1D9&icon_color=A6ADFF&border_color=30363D&hide_border=false&username=rotkis&repo=Niver-nene" alt="Niver-nene" /></a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/rotkis/Maratona_Programacao"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?theme=transparent&title_color=A6ADFF&text_color=C9D1D9&icon_color=A6ADFF&border_color=30363D&hide_border=false&username=rotkis&repo=Maratona_Programacao" alt="Maratona_Programacao" /></a></td>
+<td><a href="https://github.com/PauloViniciusAF/Empress-Language"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?theme=transparent&title_color=A6ADFF&text_color=C9D1D9&icon_color=A6ADFF&border_color=30363D&hide_border=false&username=PauloViniciusAF&repo=Empress-Language" alt="Empress-Language" /></a></td>
+</tr>
+</table>
 
 </div>
 
-| Projeto | O que faz | Stack |
-|---|---|---|
-| 🎵 **[MusicStream](https://github.com/rotkis/MusicStream)** | API de streaming com *polyglot persistence*: PostgreSQL (catálogo e usuários), Cassandra (logs de reprodução e ranking) e MongoDB (playlists). Login com BCrypt, ranking global e por usuário, shuffle ponderado. Sobe tudo com um `docker compose up`. | ![Java](https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
-| 🏛️ **DaccApi** | API do Diretório Acadêmico de Computação da FEI, em equipe de 4: 7 módulos (usuários, produtos, pedidos, pagamentos, eventos, projetos e anúncios), JWT + Argon2, autorização por permissões, pagamentos via Mercado Pago e upload de imagens. Usa EF Core, Dapper e NHibernate atrás do Repository Pattern. | ![.NET](https://img.shields.io/badge/.NET_7-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black) |
-| 🛡️ **[Empress-Language](https://github.com/PauloViniciusAF/Empress-Language)** | Compilador com sintaxe em cirílico que gera C. Fui responsável pelo analisador semântico (AST em `TreeNode`), em equipe de 5. | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) |
-| 📸 **[Niver-nene](https://github.com/rotkis/Niver-nene)** | Servidor web em Go puro para gerenciar o álbum de fotos da família: upload, exclusão e deploy via Docker. | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
-| 🏁 **[Maratona de Programação](https://github.com/rotkis/Maratona_Programacao)** | Problemas de programação competitiva resolvidos e documentados (grafos e estruturas avançadas). Mentorei 6 alunos como monitor. | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
+### 🎵 [MusicStream](https://github.com/rotkis/MusicStream)
+API de streaming com *polyglot persistence*: PostgreSQL (catálogo e usuários), Cassandra (logs de reprodução e ranking) e MongoDB (playlists). Login com BCrypt, ranking global e por usuário, shuffle ponderado. Sobe tudo com um `docker compose up`.<br>
+![Java](https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+### 🏛️ DaccApi
+API do Diretório Acadêmico de Computação da FEI, em equipe de 4: 7 módulos (usuários, produtos, pedidos, pagamentos, eventos, projetos e anúncios), JWT + Argon2, autorização por permissões, pagamentos via Mercado Pago e upload de imagens. Usa EF Core, Dapper e NHibernate atrás do Repository Pattern.<br>
+![.NET](https://img.shields.io/badge/.NET_7-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+
+### 🛡️ [Empress-Language](https://github.com/PauloViniciusAF/Empress-Language)
+Compilador com sintaxe em cirílico que gera C. Fui responsável pelo analisador semântico (AST em `TreeNode`), em equipe de 5.<br>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+
+### 📸 [Niver-nene](https://github.com/rotkis/Niver-nene)
+Servidor web em Go puro para gerenciar o álbum de fotos da família: upload, exclusão e deploy via Docker.<br>
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+### 🏁 [Maratona de Programação](https://github.com/rotkis/Maratona_Programacao)
+Problemas de programação competitiva resolvidos e documentados (grafos e estruturas avançadas). Mentorei 6 alunos como monitor.<br>
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
 <!--
 Falta só o link da DaccApi: troque **DaccApi** por **[DaccApi](URL_DO_REPO)** quando o repositório estiver público.
