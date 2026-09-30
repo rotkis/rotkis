@@ -1,51 +1,42 @@
-# 🐧 Arthur Rotkis
+# Arthur Rotkis
 
-<img src="https://readme-typing-svg.demolab.com?font=jetbrains+mono&weight=300&pause=1000&color=a6adff&&center=true&vcenter=true&random=false&width=835&lines=Welcome+to+my+Github;I'm+a+Developer;Deep+in+studies;Open+to+work" alt="typing svg" />
+**Desenvolvedor Backend** · Ciência da Computação na FEI (7º semestre, formatura prevista jul/2027)
 
-  I am Arthur Rotkis, 20 years old, a developer for one and a half years, currently studying Computer Science at Centro Universitário FEI. I have participated in programming marathons, where I learned a lot about algorithms and data structures. Additionally, I have developed several projects with different levels of complexity.
+Construo APIs REST com foco em autenticação, modelagem de dados e integrações. Já entreguei uma API .NET 7 com mais de 50 endpoints em equipe de 4 pessoas e arquitetei sozinho um sistema multibanco (PostgreSQL, Cassandra e MongoDB) em Java/Spring Boot. Também faço Iniciação Científica em IoT industrial e redes 5G.
 
-  I also hold a technical degree in Industrial Automation from Liceu de Artes e Ofícios de São Paulo. I am a fast learner and self-taught, having taught myself skills such as playing the guitar, using the Vim editor, and exploring the GNU/Linux system.
-
----
-
-## 💡 Skills & Tools
-
-- <p align="left">
-    <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/nvim-icon.png" title="Neovim" width="40" height="40">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" width="40" height="40"/>
-    <img src="https://static-00.iconduck.com/assets.00/rust-icon-2048x2047-5s6wkmk1.png" title="Rust" width="40" height="40"/>
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" title="HTML" width="40" height="40">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" title="CSS" width="40" height="40">
-    <img src="https://img.icons8.com/color/512/javascript.png" title="JavaScript" width="40" height="40">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="GNU/Linux" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" width="40" height="40"/>
-</p>
-
-- **Languages:** Portuguese (Fluent), English (Advanced), Japanese (Basic)  
+📍 Guarulhos, SP · 🔗 [LinkedIn](https://linkedin.com/in/arthurrotkis) · ✉️ rotkisarthur@gmail.com
 
 ---
 
-<div align="center">
-  <img width="52%" height="auto" src="https://github-readme-stats.vercel.app/api?username=rotkis&show_icons=true&count_private=true&title_color=a6adff&icon_color=a6adff&text_color=c9d1d9&bg_color=0d1117&hide_border=true" alt="Rotkis GitHub stats" />
-  <img width="39%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rotkis&layout=compact&title_color=a6adff&text_color=c9d1d9&bg_color=0d1117&hide_border=true" />
-</div>
+## 🚀 Projetos em destaque
 
-<details open> 
-  <summary><h2>📘 My Top Open Source Projects</h2></summary>
+| Projeto | O que é | Stack |
+|---|---|---|
+| **[MusicStream](https://github.com/rotkis/MusicStream)** | Plataforma de streaming de música com três bancos: PostgreSQL (catálogo), Cassandra (logs de reprodução) e MongoDB (playlists). Cadastro, login com BCrypt, playlists e stack completa em Docker Compose. | Java 21, Spring Boot, Docker |
+| **DaccApi** | API do Diretório Acadêmico de Computação da FEI: 50+ endpoints, 7 módulos (usuários, produtos, pedidos, pagamentos, eventos, projetos, anúncios), JWT + Argon2, autorização por permissões e pagamentos via Mercado Pago. Projeto em equipe de 4. | .NET 7, EF Core, Dapper, NHibernate |
+| **Empress-Language** | Compilador com sintaxe em cirílico que gera C. Fui responsável pelo analisador semântico (AST). Equipe de 5. | Java → C |
+| **Niver-nene** | Servidor web em Go puro para gestão de álbum de fotos da família, com upload, exclusão e deploy via Docker. | Go, Docker |
+| **Maratona de Programação** | Problemas de programação competitiva resolvidos e documentados (grafos e estruturas avançadas). Fui monitor e mentorei 6 alunos. | C++ |
 
-  <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
-  <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
-  <p align="left">
-    <a href="https://github.com/rotkis/Ora_Bolas_FEI"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rotkis&repo=Ora_Bolas_FEI&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Ora_Bolas_FEI"></a>
-    <a href="https://github.com/rotkis/CriptoExchange"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rotkis&repo=CriptoExchange&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="CriptoExchange"></a>
-    <a href="https://github.com/rotkis/Fotons"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=rotkis&repo=Fotons&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Fotons"></a>
-    <a href="https://github.com/rotkis/QuemPoupaTemC"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rotkis&repo=QuemPoupaTemC&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="QuemPoupaTemC"></a>
-  </p>
+## 🔬 Pesquisa
 
-  <a href="https://github.com/rotkis?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
-</details>
+**Iniciação Científica (FEI): Redes 5G e IoT Industrial.** Integrei uma máquina CNC legada à Siemens Insights Hub via MQTT, com 6 grandezas elétricas em transmissão contínua (gateway SIMATIC IoT2040 + Node-RED, sensores Schneider). Comparei latência cabeada vs. 5G em 1000 amostras por condição (diferença de 34%, Mann-Whitney p<0,001) e conduzi revisão sistemática PRISMA com 469 artigos. Orientação do Prof. Dr. Rafael Gomes Alves.
+
+## 🛠️ Stack
+
+- **Linguagens:** C# · Java · Go · Python · C/C++ · JavaScript
+- **Backend:** .NET 7 · Spring Boot · Node.js/Express
+- **Dados:** PostgreSQL · MongoDB · Cassandra · Entity Framework Core · Dapper · NHibernate · Firebase
+- **Segurança:** JWT · Argon2 · BCrypt · autorização por permissões
+- **Infra e ferramentas:** Docker · Docker Compose · Git/GitHub · Swagger/OpenAPI · Linux · Vim
+- **IoT:** Node-RED · MQTT · Modbus TCP/IP
+
+## 🎓 Formação
+
+- Bacharelado em Ciência da Computação, Centro Universitário FEI (2023–2027)
+- Técnico em Automação Industrial, Liceu de Artes e Ofícios de São Paulo (2020–2022)
+- Idiomas: Português (nativo) · Inglês (avançado) · Japonês (básico)
+
+---
+
+<sub>Hi! I'm a backend developer and CS student at FEI (Brazil), building REST APIs in C#/.NET, Java/Spring Boot and Go. Open to internship and junior backend opportunities.</sub>
